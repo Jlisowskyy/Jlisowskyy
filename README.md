@@ -21,9 +21,12 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
 ## Hackhaton projects
 
-  - [BestHackingLeague 2024 - cyber](https://github.com/Jlisowskyy/BHL_2024_cybersecurity_plomyk "Visit the repository") - software providing ai driven phishing training for workers
-  - [AngelHack 2024 Warsaw](https://github.com/Jlisowskyy/AngelHack_solution "Visit the repostory") - educational courses platform based on format well known from tik-tok
-  - [Llama Hackhaton 2024](https://github.com/kryczkal/AiBuy "Visit the repository") - software generating recomendations and searching for products based on user queries
+- [BestHackingLeague 2024 - Cyber](https://github.com/Jlisowskyy/BHL_2024_cybersecurity_plomyk "Visit the repository") – AI-driven phishing training software designed to educate workers on cybersecurity.
+- [AngelHack 2024 Warsaw](https://github.com/Jlisowskyy/AngelHack_solution "Visit the repository") – An educational platform inspired by TikTok's format, offering courses in an engaging and familiar way.
+- [Llama Hackathon 2024](https://github.com/kryczkal/AiBuy "Visit the repository") – Software that generates product recommendations and performs searches based on user queries.
+- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainDefi) – A platform for ranking smart contracts across multiple blockchains, enabling users to rate and test them live.
+- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHack_AptosDapp) – A webpage for organizers to sell event tickets, participants to purchase them, and all users to trade securely without concerns.
+- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainGaming) – A system enabling inter-blockchain game NFT trades designed to be user-friendly for both developers and users.
 
 ## Experience summary
 
