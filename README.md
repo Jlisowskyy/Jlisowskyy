@@ -12,7 +12,7 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
 ## Private projects
 
-  - [Checkmate-Chariot](https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-bmw-seria-3-328i-ID6Gkdfj.html "Visit the repository") - chess engine reaching over 2100 ELO currently
+  - [Checkmate-Chariot](https://github.com/Jlisowskyy/Checkmate-Chariot "Visit the repository") - chess engine reaching over 2100 ELO currently
   - [Checkmate-Chariot-tune](https://github.com/Jlisowskyy/Checkmate-Chariot-Tune "Visit the repository") - distributed parameter tuning framework for the engine
   - [Data Structures](https://github.com/Jlisowskyy/Data-Structures-Collection "Visit the repository") - collection of data structures implemented by hand
   - [Pseudo assembly](https://github.com/Jlisowskyy/pseudo-assembly "Visit the repository") - very simple interpreter of simplistic assembly language "Pseudo assembly"
