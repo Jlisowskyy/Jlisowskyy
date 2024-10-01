@@ -21,12 +21,15 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
 ## Hackhaton projects
 
-- [BestHackingLeague 2024 - Cyber](https://github.com/Jlisowskyy/BHL_2024_cybersecurity_plomyk "Visit the repository") – AI-driven phishing training software designed to educate workers on cybersecurity.
-- [AngelHack 2024 Warsaw](https://github.com/Jlisowskyy/AngelHack_solution "Visit the repository") – An educational platform inspired by TikTok's format, offering courses in an engaging and familiar way.
-- [Llama Hackathon 2024](https://github.com/kryczkal/AiBuy "Visit the repository") – Software that generates product recommendations and performs searches based on user queries.
-- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainDefi) – A platform for ranking smart contracts across multiple blockchains, enabling users to rate and test them live.
-- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHack_AptosDapp) – A webpage for organizers to sell event tickets, participants to purchase them, and all users to trade securely without concerns.
-- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainGaming) – A system enabling inter-blockchain game NFT trades designed to be user-friendly for both developers and users.
+- [BestHackingLeague 2024 - Cyber](https://github.com/Jlisowskyy/BHL_2024_cybersecurity_plomyk "Visit the repository") – AI-powered phishing simulation and training platform designed to enhance employees’ cybersecurity awareness through realistic and adaptive scenarios.
+- [AngelHack 2024 Warsaw](https://github.com/Jlisowskyy/AngelHack_solution "Visit the repository") – A TikTok-inspired educational platform that transforms learning into an engaging, bite-sized experience, delivering interactive courses in a familiar social media format.
+- [Llama Hackathon 2024](https://github.com/kryczkal/AiBuy "Visit the repository") – AI-based software for personalized product recommendations and intelligent search results, designed to enhance user shopping experiences based on real-time queries.
+- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainDefi) – A decentralized platform for ranking and testing smart contracts across multiple blockchains, empowering users to evaluate and interact with live contracts seamlessly.
+- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHack_AptosDapp) – A secure ticketing system that enables organizers to sell event tickets and participants to trade them with confidence, leveraging blockchain technology to ensure transaction security.
+- [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainGaming) – An innovative solution for inter-blockchain NFT trading, designed to simplify game asset exchanges across multiple blockchains for both developers and users.
+- [HackYeah 2024](https://github.com/KwiatkowskiML/GrowTogether) – A community-driven platform where local businesses can raise funds for their needs, offering backers loyalty rewards and other benefits in exchange for their support.
+- [HackYeah 2024](https://github.com/PiotrTyrakowski/PoopPatrol) – A health-monitoring app that analyzes children’s stool patterns to detect early signs of illness, offering parents and caregivers actionable insights on health changes.
+
 
 ## Experience summary
 
@@ -36,4 +39,4 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,c,cpp,cs,java,clion,cmake,py,fastapi,git,github,html,css,js,nodejs,react,ts&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,c,cpp,cs,java,cmake,py,fastapi,git,github,html,css,js,nodejs,react,ts,flutter,dart&theme=dark&perline=10)](https://skillicons.dev)
