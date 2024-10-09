@@ -23,6 +23,7 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
 - [BestHackingLeague 2024 - Cyber](https://github.com/Jlisowskyy/BHL_2024_cybersecurity_plomyk "Visit the repository") – AI-powered phishing simulation and training platform designed to enhance employees’ cybersecurity awareness through realistic and adaptive scenarios.
 - [AngelHack 2024 Warsaw](https://github.com/Jlisowskyy/AngelHack_solution "Visit the repository") – A TikTok-inspired educational platform that transforms learning into an engaging, bite-sized experience, delivering interactive courses in a familiar social media format.
+- [AngelHack 2024 Finals Singapur]() - Currently under work.
 - [Llama Hackathon 2024](https://github.com/Jlisowskyy/AiBuy "Visit the repository") – AI-based software for personalized product recommendations and intelligent search results, designed to enhance user shopping experiences based on real-time queries.
 - [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHackBountyOmnichainDefi "Visit the repository") – A decentralized platform for ranking and testing smart contracts across multiple blockchains, empowering users to evaluate and interact with live contracts seamlessly.
 - [AngelHack 2024 Bounties](https://github.com/Jlisowskyy/AngelHack_AptosDapp "Visit the repository") – A secure ticketing system that enables organizers to sell event tickets and participants to trade them with confidence, leveraging blockchain technology to ensure transaction security.
