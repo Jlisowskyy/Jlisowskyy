@@ -8,7 +8,10 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 - Operating Systems
 - Algorithms 
 - Low Level Programming
-- Artificial Intelligence 
+- Artificial Intelligence
+
+## Engineering Thesis
+[AlkOS](https://github.com/Jlisowskyy/AlkOS) - Operating system developed from the ground up, with the primary objective of implementing a process scheduler. Future goals include developing userspace applications and a command-line shell interface.
 
 ## Private projects
 
@@ -34,8 +37,10 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 ## University projects
 
 - [Object Oriented Design](https://github.com/Jlisowskyy/FlightManager) - Simplified CLI-based platform for managing flight data, demonstrates key object-oriented programming (OOP) principles and design patterns.
-- [Introduction to Machine Learning]() - Speech recognition system utilizing a CNN model based on speech spectrogram processing. (5 person team)
+- [Introduction to Machine Learning](https://github.com/Jlisowskyy/intro-ml-2024/tree/dev) - Speech recognition system utilizing a CNN model based on speech spectrogram processing. (5 person team)
 - [Computer graphics - Project 1 - Polygon Editor](https://github.com/Jlisowskyy/gk_2024_proj_polygons) - A simple polygon editor that allows users to create polygons, apply edge constraints (such as vertical, horizontal, and fixed length), and set vertex constraints (including various continuity options). The editor ensures vertices can be moved without breaking these constraints.
+- [Computer graphics - Project 2 - simplistic render engine](https://github.com/Jlisowskyy/gk_2024_proj_2) - drawing 3d models with simple light animation, by default operating on bezier surface.
+- [Graphic Processors in Computational Applications - Project 1 - MCTS chess](https://github.com/Jlisowskyy/CUDA_gpca_proj1) - MCTS based chess engine utilizing GPU paralellizm to run the simulations.
  
 ## Experience summary
 
