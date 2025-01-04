@@ -41,6 +41,8 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 - [Computer graphics - Project 1 - Polygon Editor](https://github.com/Jlisowskyy/gk_2024_proj_polygons) - A simple polygon editor that allows users to create polygons, apply edge constraints (such as vertical, horizontal, and fixed length), and set vertex constraints (including various continuity options). The editor ensures vertices can be moved without breaking these constraints.
 - [Computer graphics - Project 2 - simplistic render engine](https://github.com/Jlisowskyy/gk_2024_proj_2) - drawing 3d models with simple light animation, by default operating on bezier surface.
 - [Graphic Processors in Computational Applications - Project 1 - MCTS chess](https://github.com/Jlisowskyy/CUDA_gpca_proj1) - MCTS based chess engine utilizing GPU paralellizm to run the simulations.
+- [Computer graphics - Project 2 - ditherring techniques used in computer graphics](https://github.com/Jlisowskyy/gk_2024_proj3) - Simple application allowing to process image with desired ditherring technique.
+- [Graphic Processors in Computational Applications - Project 2 - Hamming distance of 1](https://github.com/Jlisowskyy/CUDA_gpca_proj2) - CUDA application finding all pairs of long binary strings with Hamming distance of 1.
  
 ## Experience summary
 
