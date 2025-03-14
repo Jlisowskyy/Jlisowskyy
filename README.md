@@ -17,6 +17,7 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
   - [Checkmate-Chariot](https://github.com/Jlisowskyy/Checkmate-Chariot "Visit the repository") - chess engine reaching over 2100 ELO currently
   - [Checkmate-Chariot-tune](https://github.com/Jlisowskyy/Checkmate-Chariot-Tune "Visit the repository") - distributed parameter tuning framework for the engine
+  - [OpenGL Scene Editor](https://github.com/Jlisowskyy/gk_2024_proj4) - interactive scene editor, written in C++ OpenGL, for static objects with real-time lightning simulation
   - [Data Structures](https://github.com/Jlisowskyy/Data-Structures-Collection "Visit the repository") - collection of data structures implemented by hand
   - [Pseudo assembly](https://github.com/Jlisowskyy/pseudo-assembly "Visit the repository") - very simple interpreter of simplistic assembly language "Pseudo assembly"
   - [Pixel Chess](https://github.com/Jlisowskyy/PixelChess "Visit the repository") - very simple chess game 
@@ -41,9 +42,13 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 - [Computer graphics - Project 1 - Polygon Editor](https://github.com/Jlisowskyy/gk_2024_proj_polygons) - A simple polygon editor that allows users to create polygons, apply edge constraints (such as vertical, horizontal, and fixed length), and set vertex constraints (including various continuity options). The editor ensures vertices can be moved without breaking these constraints.
 - [Computer graphics - Project 2 - simplistic render engine](https://github.com/Jlisowskyy/gk_2024_proj_2) - drawing 3d models with simple light animation, by default operating on bezier surface.
 - [Graphic Processors in Computational Applications - Project 1 - MCTS chess](https://github.com/Jlisowskyy/CUDA_gpca_proj1) - MCTS based chess engine utilizing GPU paralellizm to run the simulations.
-- [Computer graphics - Project 2 - ditherring techniques used in computer graphics](https://github.com/Jlisowskyy/gk_2024_proj3) - Simple application allowing to process image with desired ditherring technique.
+- [Computer graphics - Project 3 - ditherring techniques used in computer graphics](https://github.com/Jlisowskyy/gk_2024_proj3) - Simple application allowing to process image with desired ditherring technique.
 - [Graphic Processors in Computational Applications - Project 2 - Hamming distance of 1](https://github.com/Jlisowskyy/CUDA_gpca_proj2) - CUDA application finding all pairs of long binary strings with Hamming distance of 1.
- 
+
+## Utilities repositories
+
+- [Cxx Template](https://github.com/Jlisowskyy/cxx_template) - This repository provides a comprehensive C++ project template with modern development tools, automated workflows, and best practices for C++ software development.
+- [Cxx utils](https://github.com/Jlisowskyy/cxx_utils) - C++ library containing various utilities frequently reused in many projects.                                                                                                                                                                                                                                                    
 ## Experience summary
 
 <p align="center">
