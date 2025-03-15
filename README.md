@@ -2,11 +2,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Jlisowskyy/count.svg)
 
+## [Curriculum vitae](https://github.com/user-attachments/files/19266572/CV.pdf)
+
 ## Areas of intrest
 
 I'm mostly focused on developing new skills and expanding old ones within this areas:
 - Operating Systems
-- Algorithms 
+- Algorithms
+
 - Low Level Programming
 - Artificial Intelligence
 
