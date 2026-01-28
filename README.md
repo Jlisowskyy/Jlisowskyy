@@ -1,18 +1,7 @@
 <h1 align="center"> Hi, I'm Kuba </h1>
 
-## [Curriculum vitae](https://github.com/user-attachments/files/22319736/CV.pdf)
-
-## Areas of interest
-
-I'm mostly focused on developing new skills and expanding old ones within these areas:
-- Operating Systems
-- Algorithms
-- Low-Level Programming
-- Artificial Intelligence
-- Distributed Systems
-
 ## Engineering Thesis
-[AlkOS](https://github.com/Jlisowskyy/AlkOS) - Operating system developed from the ground up, with the primary objective of implementing a process scheduler. It features an interrupt handling infrastructure, a `gtest`-like testing module, implemented C/C++ standard library portions, multi-core support, and fundamental kernel data structures.
+[AlkOS](https://github.com/Jlisowskyy/AlkOS) - Operating system developed from the ground up.
 
 ## Private projects
 
@@ -33,8 +22,6 @@ I have participated in numerous hackathons, gaining valuable experience and expa
 - **Llama Hackathon 2024**  
 - **AngelHack 2024 Bounties** (multiple times)  
 
-Project repositories can be found in my repository list.
-
 ## University projects
 
 - [Introduction to Machine Learning](https://github.com/Jlisowskyy/intro-ml-2024/tree/dev) - Speech recognition system utilizing a CNN model based on speech spectrogram processing. (5 person team)
@@ -53,6 +40,3 @@ Project repositories can be found in my repository list.
   <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=Jlisowskyy&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true" />
 </p>
 
-## Languages and tools
-
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,c,cpp,cs,java,cmake,py,fastapi,git,github,html,css,js,nodejs,react,ts,flutter,dart,docker&theme=dark&perline=10)](https://skillicons.dev)
