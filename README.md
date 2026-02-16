@@ -6,9 +6,7 @@
 ## Private projects
 
   - [Checkmate-Chariot](https://github.com/Jlisowskyy/Checkmate-Chariot "Visit the repository") - chess engine reaching over 2100 ELO currently
-  - [Checkmate-Chariot-tune](https://github.com/Jlisowskyy/Checkmate-Chariot-Tune "Visit the repository") - distributed parameter tuning framework for the engine
   - [OpenGL Scene Editor](https://github.com/Jlisowskyy/gk_2024_proj4) - interactive scene editor, written in C++ OpenGL, for static objects with real-time lightning simulation
-  - [Data Structures](https://github.com/Jlisowskyy/Data-Structures-Collection "Visit the repository") - collection of data structures implemented by hand
   - [pyradiomics-cuda](https://github.com/PiotrTyrakowski/pyradiomics-CUDA) - GPU-accelerated extension of PyRadiomics for shape feature extraction, achieving up to 1000x speedup on NVIDIA H100.
 
 ## Hackathon Projects  
@@ -21,19 +19,7 @@ I have participated in numerous hackathons, gaining valuable experience and expa
 - **AngelHack Grand Finals Singapore 2024**  
 - **Llama Hackathon 2024**  
 - **AngelHack 2024 Bounties** (multiple times)  
-
-## University projects
-
-- [Introduction to Machine Learning](https://github.com/Jlisowskyy/intro-ml-2024/tree/dev) - Speech recognition system utilizing a CNN model based on speech spectrogram processing. (5 person team)
-- [Computer graphics - Project 2 - simplistic render engine](https://github.com/Jlisowskyy/gk_2024_proj_2) - drawing 3d models, on CPU, with simple light animation, by default operating on bezier surface.
-- [Graphic Processors in Computational Applications - Project 1 - MCTS chess](https://github.com/Jlisowskyy/CUDA_gpca_proj1) - MCTS based chess engine utilizing GPU paralellizm to run the simulations.
-- [Graphic Processors in Computational Applications - Project 2 - Hamming distance of 1](https://github.com/Jlisowskyy/CUDA_gpca_proj2) - CUDA application finding all pairs of long binary strings with Hamming distance of 1.
-- And many more in repository list!
-
-## Utilities repositories
-
-- [Cxx Template](https://github.com/Jlisowskyy/cxx_template) - This repository provides a comprehensive C++ project template with modern development tools, automated workflows, and best practices for C++ software development.
-- [Cxx utils](https://github.com/Jlisowskyy/cxx_utils) - C++ library containing various utilities frequently reused in many projects.                                                                                                                                                                                                                                                    
+                
 ## Experience summary
 
 <p align="center">
